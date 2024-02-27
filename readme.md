@@ -1,6 +1,6 @@
 # Montepaldi vineyard data
 
-This dataset includes soil moisture and water stable isotope data collected at the Montepaldi farm (Tuscany, Italy) in the summer 2021. The data is discussed in the paper "*Ecohydrological dynamics and temporal water origin in a European Mediterranean vineyard*", currently under peer review.
+This dataset includes soil moisture and water stable isotope data collected at the Montepaldi farm (Tuscany, Italy) in the summer 2021. The data is discussed in the paper "*Ecohydrological dynamics and temporal water origin in a European Mediterranean vineyard*", by P. Benettin, D. Penna, M. Tagliavini, C. Andreotti, F.S. Manca di Villahermosa, M. Verdone, A. Dani. The manuscript is currently under peer review.
 
 ## Field site
 
@@ -42,4 +42,9 @@ The image below summarises all the isotope data values collected at the site.
 
 ![](Montepaldi_dual-isotope-plot_20240223.png)
 
+## LICENSE
 
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/

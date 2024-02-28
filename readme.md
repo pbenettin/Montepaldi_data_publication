@@ -4,7 +4,7 @@ This dataset includes soil moisture and water stable isotope data collected at t
 
 ## Field site
 
-The experimental vineyard *Nincio 3* (43° 40' 14.47" N, 11° 08' 20.46" E, WGS84, [see on Google Map](https://maps.app.goo.gl/tfqomNEx16TET9An8)), has a size of 2.3 ha and is located on a slope degrading toward a small river. Elevation ranges between 109 and 146 m a.s.l. The vineyard is cultivated with 12-year-old grapevines 
+The experimental vineyard *Nincio 3* (43° 40' 14.47" N, 11° 08' 20.46" E, WGS84, [see on Google Map](https://maps.app.goo.gl/tfqomNEx16TET9An8)), has a size of 2.3 ha and is located on a slope degrading toward a small river. Elevation ranges between 109 and 146 m a.s.l. The vineyard is cultivated with 12-year-old grapevines. 
 
 ![](01_field_location.jpeg) 
 

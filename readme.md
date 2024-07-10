@@ -1,6 +1,6 @@
 # Montepaldi vineyard data
 
-This dataset includes soil moisture and water stable isotope data collected at the Montepaldi farm (Tuscany, Italy) in the summer 2021. The data is discussed in the paper "*Ecohydrological dynamics and temporal water origin in a European Mediterranean vineyard*", by P. Benettin, M. Tagliavini, C. Andreotti, F.S. Manca di Villahermosa, M. Verdone, A. Dani and D. Penna. The manuscript is currently under peer review.
+This dataset includes soil moisture and water stable isotope data collected at the Montepaldi farm (Tuscany, Italy) in the summer 2021. The data is discussed in the paper "*Ecohydrological dynamics and temporal water origin in a European Mediterranean vineyard*", by P. Benettin, M. Tagliavini, C. Andreotti, F.S. Manca di Villahermosa, M. Verdone, A. Dani and D. Penna. The manuscript is currently under peer review. The data has a persistent DOI on Zenodo: [https://doi.org/10.5281/zenodo.12708488](https://doi.org/10.5281/zenodo.12708488)
 
 ## Field site
 
@@ -12,7 +12,7 @@ The experimental vineyard *Nincio 3* (43° 40' 14.47" N, 11° 08' 20.46" E, WGS8
 
 The dataset includes 2 main data files: 
 
-### Montepaldi_VWC_[yyyymmdd].csv
+### Montepaldi_VWC_20240301.csv
 
 This file includes soil moisture timeseries data collected through FDR probes and aggregated to 15-min resolution. We installed 10 probes in total, at 2 locations (top and bottom of the hillslope) and at 2 depths (30 and 60 cm). 
 
@@ -20,7 +20,7 @@ The file has 2 lines of description on top. Every row in the table corresponds t
 
 Missing data (due to different installation dates and to the failure of 1 sensor) are indicated as `NaN`.
 
-### Montepaldi_isotopes_[yyyymmdd].csv
+### Montepaldi_isotopes_20240301.csv
 
 This data table includes the stable isotope analysis of various samples collected at the vineyard, as illustrated below:
 
